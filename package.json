@@ -1,0 +1,22 @@
+{
+  "name": "articles-api",
+  "version": "1.0.0",
+  "description": "Prática com NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tipopamela/articles-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tipopamela/articles-api/issues"
+  },
+  "homepage": "https://github.com/tipopamela/articles-api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
